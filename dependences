@@ -1,0 +1,2 @@
+implementation 'org.mariadb.jdbc:mariadb-java-client:3.2.0'
+implementation 'com.thedeanda:lorem:2.2'
